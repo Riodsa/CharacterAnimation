@@ -26,23 +26,3 @@ ESC: Exit the application.
 3D Assets: Character Model: Character assets sourced from Adobe Mixamo.
 
 Animations: Idle, Walking, and Dancing animations were retargeted and exported from Mixamo.
-
-# Libraries:
-
-GLFW / GLAD: Window management and OpenGL profile loading.
-
-GLM: OpenGL Mathematics for matrix and vector operations.
-
-Assimp: Open Asset Import Library for skeletal data.
-
-stb_image: Image loading for textures.
-
-# 🛠️ Build Instructions
-Ensure you have CMake and Visual Studio (or another C++ compiler) installed.
-Install required dependencies: assimp, glfw, and glm.
-
-Place your model files in resources/objects/.
-
-Compile the project using the provided Visual Studio solution or CMake script.
-
-Run the executable. Ensure shaders (anim_model.vs, anim_model.fs) are in the working directory or specified path.

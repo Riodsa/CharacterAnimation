@@ -1,9 +1,4 @@
-OpenGL Skeletal Animation - Playable Character
-This project is a playable character system built using C++ and OpenGL. It extends the core skeletal animation concepts from LearnOpenGL to create a controllable player with state-based animations and 8-directional movement logic.
-
-🎥 Demo Video
-
-
+* Demo Video *
 https://github.com/user-attachments/assets/2b90dccd-3f29-4d77-a009-74b646b57635
 
 

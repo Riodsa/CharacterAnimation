@@ -5,8 +5,6 @@ https://github.com/user-attachments/assets/2b90dccd-3f29-4d77-a009-74b646b57635
 
 # Controls
 
-* Player Movement
-
 Arrow Keys: Move the character in 8 directions.
 
 The character automatically rotates to face the direction of movement using atan2 logic.
@@ -17,15 +15,11 @@ Spacebar: Perform a special action (Dancing animation).
 
 Idle State: The character automatically returns to an idle animation when no movement keys are pressed.
 
-* Camera & System
-
 W / A / S / D: Move the camera position.
 
 Mouse Movement: Look around (Yaw/Pitch).
 
 ESC: Exit the application.
-
-Assimp Integration: Robust 3D model loading supporting the COLLADA (.dae) format.
 
 # Sources 
 
